@@ -13,5 +13,4 @@
 4. To test run the script as `python3 run_testcases.py`. The script will copy testcases and errorcases to your project directory and will test one by one. If there is an error with your program, it will show the output of your program and the expected output.
 5. Finally, you will see the number of testcases your program is able to pass. With the message saying `projects/2012800009 SCORE:1 out of 6`
 
-**If you have any problem, please ask on piazza.**
 
